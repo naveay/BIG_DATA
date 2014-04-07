@@ -1,1 +1,1 @@
-{"name": "SuzannaTillson", "user-since": "datetime 2012-08-07T10:10:00", "alias": "Suzanna", "friend-ids": [6], "employment": {"organization-name": "Labzatron", "start-date": "date 2011-04-19"}, "id": 7}
+{"name": "SuzannaTillson", "user-since": {"datetime": "2012-08-07T10:10:00"}, "alias": "Suzanna", "friend-ids": [6], "employment": {"organization-name": "Labzatron", "start-date": {"date": "2011-04-19"}}, "id": 7}

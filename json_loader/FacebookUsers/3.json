@@ -1,1 +1,1 @@
-{"name": "EmoryUnk", "user-since": "datetime 2012-07-10T10:10:00", "alias": "Emory", "friend-ids": [1, 5, 8, 9], "employment": {"end-date": "date 2010-01-26", "organization-name": "geomedia", "start-date": "date 2010-06-17"}, "id": 3}
+{"name": "EmoryUnk", "user-since": {"datetime": "2012-07-10T10:10:00"}, "alias": "Emory", "friend-ids": [1, 5, 8, 9], "employment": {"end-date": {"date": "2010-01-26"}, "organization-name": "geomedia", "start-date": {"date": "2010-06-17"}}, "id": 3}

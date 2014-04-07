@@ -1,1 +1,1 @@
-{"name": "NicholasStroh", "user-since": "datetime 2010-12-27T10:10:00", "alias": "Nicholas", "friend-ids": [2], "employment": {"organization-name": "Zamcorporation", "start-date": "date 2010-06-08"}, "id": 4}
+{"name": "NicholasStroh", "user-since": {"datetime": "2010-12-27T10:10:00"}, "alias": "Nicholas", "friend-ids": [2], "employment": {"organization-name": "Zamcorporation", "start-date": {"date": "2010-06-08"}}, "id": 4}

@@ -1,1 +1,1 @@
-{"name": "VonKemble", "user-since": "datetime 2010-01-05T10:10:00", "alias": "Von", "friend-ids": [3, 6, 10], "employment": {"organization-name": "Kongreen", "start-date": "date 2010-11-27"}, "id": 5}
+{"name": "VonKemble", "user-since": {"datetime": "2010-01-05T10:10:00"}, "alias": "Von", "friend-ids": [3, 6, 10], "employment": {"organization-name": "Kongreen", "start-date": {"date": "2010-11-27"}}, "id": 5}

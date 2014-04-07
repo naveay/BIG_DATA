@@ -22,12 +22,12 @@ def L(a, b, c):
         line=line.replace('}}',']')
         line=line.replace('[{','{');
         line=line.replace('}]','}')
-        while line.find('(\"')>=0:
+        while line.find('(\"')>=0 and line.find('\")')>=0:
             i=line.find('(\"')
             z=line.rfind(':',0,i)
-            line=line.replace('(\"',' ',1)
-            line=line.replace('\")','\"',1)
-            line=line[0:z+1]+'\"'+line[z+1:]
+            line=line.replace('(\"','\":\"',1)
+            line=line.replace('\")','\"}',1)
+            line=line[0:z+1]+'{\"'+line[z+1:]
         outfile.write(line)
         line=file.readline()
         if line:
